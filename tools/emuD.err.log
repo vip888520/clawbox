@@ -1,0 +1,15 @@
+INFO    | Ignore IPv6 address: 402a:274f:1f01:0:9000:274f:1f01:0 (2x)
+WARNING | x86_64 emulation may not work without hardware acceleration!
+WARNING | FeatureControl is requesting a non existing feature.
+WARNING | Your AVD has been configured with an in-guest renderer, but the system image does not support guest rendering.Falling back to 'swiftshader_indirect' mode.
+I0813 17:05:34.734555   12616 HealthMonitor.cpp:279] HealthMonitor disabled.
+I0813 17:05:34.763144   12616 FrameBuffer.cpp:486] Graphics Adapter Vendor Google (Google Inc.)
+I0813 17:05:34.767421   12616 FrameBuffer.cpp:487] Graphics Adapter Android Emulator OpenGL ES Translator (Google SwiftShader)
+I0813 17:05:34.769719   12616 FrameBuffer.cpp:488] Graphics API Version OpenGL ES 3.0 (OpenGL ES 3.0 SwiftShader 4.0.0.1)
+I0813 17:05:34.771247   12616 FrameBuffer.cpp:489] Graphics API Extensions GL_OES_EGL_sync GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_depth24 GL_OES_depth32 GL_OES_element_index_uint GL_OES_texture_float GL_OES_texture_float_linear GL_OES_compressed_paletted_texture GL_OES_compressed_ETC1_RGB8_texture GL_OES_depth_texture GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_OES_packed_depth_stencil GL_OES_vertex_half_float GL_OES_standard_derivatives GL_OES_texture_npot GL_OES_rgb8_rgba8 GL_EXT_color_buffer_float GL_EXT_color_buffer_half_float GL_EXT_texture_format_BGRA8888 GL_APPLE_texture_format_BGRA8888 
+I0813 17:05:34.771938   12616 FrameBuffer.cpp:490] Graphics Device Extensions N/A
+**********Couldd not open option rom 'linuxboot_dma.bin': No such file or directory
+WARNING | The emulator now requires a signed jwt token for gRPC access! Use the -grpc flag if you really want an open unprotected grpc port
+WARNING | *** Basic token auth should only be used by android-studio ***
+C:\Users\ÏôÁú\.openclaw\workspace\clawbox\tools\emulator34\emulator\qemu\windows-x86_64\qemu-system-x86_64-headless.exe: -device virtio-net-pci,netdev=mynet: failed to find romfile "efi-virtio.rom"
+WARNING | QEMU main loop exits abnormally with code 1
