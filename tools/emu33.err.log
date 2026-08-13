@@ -1,0 +1,4 @@
+INFO    | Ignore IPv6 address: 406a:bd69:d001:0:9040:bd69:d001:0 (2x)
+WARNING | Another emulator is still running, wait for a sec...
+WARNING | Another emulator is still running, wait for a sec... (2x)
+ERROR   | Another emulator instance is running. Please close it or run all emulators with -read-only flag.
