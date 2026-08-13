@@ -1,0 +1,34 @@
+INFO    | Android emulator version 33.1.24.0 (build_id 11237101) (CL:N/A)
+INFO    | Found systemPath C:\Users\萧龙\AppData\Local\Android\Sdk\system-images\android-28\google_apis\x86_64\
+INFO    | Storing crashdata in: , detection is enabled for process: 20536
+INFO    | Duplicate loglines will be removed, if you wish to see each individual line launch with the -log-nofilter flag.
+INFO    | IPv4 server found: 
+INFO    | Ignore IPv6 address: 8000:bbeb:e02:0:8000:bbeb:e02:0
+INFO    | Ignore IPv6 address: 8000:bbeb:e02:0:8000:bbeb:e02:0 (2x)
+INFO    | Ignore IPv6 address: 7006:bbeb:e02:0:8000:bbeb:e02:0
+INFO    | Ignore IPv6 address: 7006:bbeb:e02:0:8000:bbeb:e02:0 (2x)
+INFO    | Ignore IPv6 address: 680c:bbeb:e02:0:8000:bbeb:e02:0
+INFO    | Ignore IPv6 address: 680c:bbeb:e02:0:8000:bbeb:e02:0 (2x)
+INFO    | Ignore IPv6 address: 8814:bbeb:e02:0:8000:bbeb:e02:0
+INFO    | Ignore IPv6 address: 8814:bbeb:e02:0:8000:bbeb:e02:0 (2x)
+INFO    | Ignore IPv6 address: 3824:bbeb:e02:0:8000:bbeb:e02:0
+INFO    | Ignore IPv6 address: 3824:bbeb:e02:0:8000:bbeb:e02:0 (2x)
+INFO    | Ignore IPv6 address: 302a:bbeb:e02:0:8000:bbeb:e02:0
+library_mode swiftshader_indirect gpu mode swiftshader_indirect
+INFO    | Could not open C:\Users\萧龙\AppData\Local\Android\Sdk\system-images\android-28\google_apis\x86_64\\VerifiedBootParams.textproto: No such file or directory
+AEHD is operational
+host doesn't support requested feature: CPUID.01H:ECX.xsave [bit 26]
+host doesn't support requested feature: CPUID.01H:ECX.avx [bit 28]
+host doesn't support requested feature: CPUID.01H:ECX.xsave [bit 26]
+host doesn't support requested feature: CPUID.01H:ECX.avx [bit 28]
+host doesn't support requested feature: CPUID.01H:ECX.xsave [bit 26]
+host doesn't support requested feature: CPUID.01H:ECX.avx [bit 28]
+host doesn't support requested feature: CPUID.01H:ECX.xsave [bit 26]
+host doesn't support requested feature: CPUID.01H:ECX.avx [bit 28]
+INFO    | Using security allow list from: C:\Users\萧龙\.openclaw\workspace\clawbox\tools\emulator34\emulator\lib\emulator_access.json
+INFO    | The active JSON Web Key Sets can be found here: C:\Users\萧龙\AppData\Local\Temp\avd\running\20536\jwks\39677355-b344-4bc4-be61-d2d754c94e23\active.jwk
+INFO    | Scanning C:\Users\萧龙\AppData\Local\Temp\avd\running\20536\jwks\39677355-b344-4bc4-be61-d2d754c94e23 for jwk keys.
+INFO    | Started GRPC server at 127.0.0.1:8554, security: Local, auth: +token
+INFO    | Advertising in: C:\Users\萧龙\AppData\Local\Temp\avd\running\pid_20536.ini
+INFO    | Wait for emulator (pid 20536) 10 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+INFO    | Wait for emulator (pid 20536) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
