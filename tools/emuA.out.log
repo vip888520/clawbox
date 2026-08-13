@@ -1,0 +1,30 @@
+INFO    | Android emulator version 33.1.24.0 (build_id 11237101) (CL:N/A)
+INFO    | Found systemPath C:\Users\萧龙\AppData\Local\Android\Sdk\system-images\android-28\google_apis\x86_64\
+INFO    | Storing crashdata in: , detection is enabled for process: 19992
+INFO    | Duplicate loglines will be removed, if you wish to see each individual line launch with the -log-nofilter flag.
+INFO    | IPv4 server found: 
+INFO    | Ignore IPv6 address: 6033:3161:1201:0:6033:3161:1201:0
+INFO    | Ignore IPv6 address: 6033:3161:1201:0:6033:3161:1201:0 (2x)
+INFO    | Ignore IPv6 address: 5039:3161:1201:0:6033:3161:1201:0
+INFO    | Ignore IPv6 address: 5039:3161:1201:0:6033:3161:1201:0 (2x)
+INFO    | Ignore IPv6 address: 483f:3161:1201:0:6033:3161:1201:0
+INFO    | Ignore IPv6 address: 483f:3161:1201:0:6033:3161:1201:0 (2x)
+INFO    | Ignore IPv6 address: 6847:3161:1201:0:6033:3161:1201:0
+INFO    | Ignore IPv6 address: 6847:3161:1201:0:6033:3161:1201:0 (2x)
+INFO    | Ignore IPv6 address: 1857:3161:1201:0:6033:3161:1201:0
+INFO    | Ignore IPv6 address: 1857:3161:1201:0:6033:3161:1201:0 (2x)
+INFO    | Ignore IPv6 address: 105d:3161:1201:0:6033:3161:1201:0
+library_mode swiftshader_indirect gpu mode swiftshader_indirect
+INFO    | Could not open C:\Users\萧龙\AppData\Local\Android\Sdk\system-images\android-28\google_apis\x86_64\\VerifiedBootParams.textproto: No such file or directory
+AEHD is operational
+host doesn't support requested feature: CPUID.80000001H:ECX.svm [bit 2]
+host doesn't support requested feature: CPUID.80000001H:ECX.svm [bit 2]
+host doesn't support requested feature: CPUID.80000001H:ECX.svm [bit 2]
+host doesn't support requested feature: CPUID.80000001H:ECX.svm [bit 2]
+INFO    | Using security allow list from: C:\Users\萧龙\.openclaw\workspace\clawbox\tools\emulator34\emulator\lib\emulator_access.json
+INFO    | The active JSON Web Key Sets can be found here: C:\Users\萧龙\AppData\Local\Temp\avd\running\19992\jwks\c80140a4-18c9-45e6-8dad-dfa0584c33f9\active.jwk
+INFO    | Scanning C:\Users\萧龙\AppData\Local\Temp\avd\running\19992\jwks\c80140a4-18c9-45e6-8dad-dfa0584c33f9 for jwk keys.
+INFO    | Started GRPC server at 127.0.0.1:8554, security: Local, auth: +token
+INFO    | Advertising in: C:\Users\萧龙\AppData\Local\Temp\avd\running\pid_19992.ini
+INFO    | Wait for emulator (pid 19992) 10 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+INFO    | Wait for emulator (pid 19992) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
