@@ -1,0 +1,27 @@
+INFO    | Android emulator version 33.1.24.0 (build_id 11237101) (CL:N/A)
+INFO    | Found systemPath C:\Users\萧龙\AppData\Local\Android\Sdk\system-images\android-28\google_apis\x86_64\
+INFO    | Storing crashdata in: , detection is enabled for process: 13228
+INFO    | Duplicate loglines will be removed, if you wish to see each individual line launch with the -log-nofilter flag.
+INFO    | IPv4 server found: 
+INFO    | Ignore IPv6 address: 10ce:b978:ec01:0:10ce:b978:ec01:0
+INFO    | Ignore IPv6 address: 10ce:b978:ec01:0:10ce:b978:ec01:0 (2x)
+INFO    | Ignore IPv6 address: d4:b978:ec01:0:10ce:b978:ec01:0
+INFO    | Ignore IPv6 address: d4:b978:ec01:0:10ce:b978:ec01:0 (2x)
+INFO    | Ignore IPv6 address: f8d9:b978:ec01:0:10ce:b978:ec01:0
+INFO    | Ignore IPv6 address: f8d9:b978:ec01:0:10ce:b978:ec01:0 (2x)
+INFO    | Ignore IPv6 address: 18e2:b978:ec01:0:10ce:b978:ec01:0
+INFO    | Ignore IPv6 address: 18e2:b978:ec01:0:10ce:b978:ec01:0 (2x)
+INFO    | Ignore IPv6 address: c8f1:b978:ec01:0:10ce:b978:ec01:0
+INFO    | Ignore IPv6 address: c8f1:b978:ec01:0:10ce:b978:ec01:0 (2x)
+INFO    | Ignore IPv6 address: c0f7:b978:ec01:0:10ce:b978:ec01:0
+library_mode swiftshader_indirect gpu mode swiftshader_indirect
+INFO    | Could not open C:\Users\萧龙\AppData\Local\Android\Sdk\system-images\android-28\google_apis\x86_64\\VerifiedBootParams.textproto: No such file or directory
+AEHD is operational
+host doesn't support requested feature: CPUID.01H:ECX.xsave [bit 26]
+host doesn't support requested feature: CPUID.01H:ECX.avx [bit 28]
+host doesn't support requested feature: CPUID.01H:ECX.xsave [bit 26]
+host doesn't support requested feature: CPUID.01H:ECX.avx [bit 28]
+host doesn't support requested feature: CPUID.01H:ECX.xsave [bit 26]
+host doesn't support requested feature: CPUID.01H:ECX.avx [bit 28]
+host doesn't support requested feature: CPUID.01H:ECX.xsave [bit 26]
+host doesn't support requested feature: CPUID.01H:ECX.avx [bit 28]
