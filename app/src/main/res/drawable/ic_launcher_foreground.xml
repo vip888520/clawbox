@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- lobster emoji-ish stylized mark: simple rounded body + claws -->
+    <path
+        android:fillColor="#A78BFA"
+        android:pathData="M40,38 C40,30 68,30 68,38 L68,52 C68,60 60,64 54,64 C48,64 40,60 40,52 Z" />
+    <path
+        android:fillColor="#EC4899"
+        android:pathData="M36,40 L24,30 C22,28 24,24 28,24 L36,30 Z M36,44 L20,42 C16,42 16,38 20,37 L36,38 Z" />
+    <path
+        android:fillColor="#EC4899"
+        android:pathData="M72,40 L84,30 C86,28 84,24 80,24 L72,30 Z M72,44 L88,42 C92,42 92,38 88,37 L72,38 Z" />
+    <path
+        android:fillColor="#7C5CFF"
+        android:pathData="M40,54 C34,58 30,64 30,70 L36,70 C38,64 42,60 46,58 Z M68,54 C74,58 78,64 78,70 L72,70 C70,64 66,60 62,58 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,42 a2.5,2.5 0 1,0 0.1,0 M60,42 a2.5,2.5 0 1,0 0.1,0" />
+</vector>
