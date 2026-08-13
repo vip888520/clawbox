@@ -1,0 +1,41 @@
+INFO         | Android emulator version 37.1.11.0 (build_id 15917651) (CL:N/A)
+INFO         | Graphics backend: gfxstream
+INFO         | Found systemPath C:\Users\萧龙\AppData\Local\Android\Sdk\system-images\android-28\google_apis\x86_64\
+INFO         | Saving last run QEMU version for the AVD to 2
+ERROR        | avdInfo_setLastRunQemuVersion: Could not write file: C:\Users\萧龙\.android\avd\..\avd\clawbox28.avd\qemu-version.txt
+INFO         | IPv4 server found: 211.140.13.188
+INFO         | Ignore IPv6 address: 1c:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Ignore IPv6 address: 1c:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Ignore IPv6 address: 1c:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Ignore IPv6 address: f021:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Ignore IPv6 address: f021:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Ignore IPv6 address: f021:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Ignore IPv6 address: e827:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Ignore IPv6 address: e827:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Ignore IPv6 address: e827:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Ignore IPv6 address: 830:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Ignore IPv6 address: 830:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Ignore IPv6 address: 830:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Ignore IPv6 address: b83f:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Ignore IPv6 address: b83f:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Ignore IPv6 address: b83f:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Ignore IPv6 address: b045:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Ignore IPv6 address: b045:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Ignore IPv6 address: b045:8b1f:2102:0:1c:8b1f:2102:0
+INFO         | Guest GLES Driver: Auto (ext controls)
+WARNING      | Your AVD has been configured with an in-guest renderer, but the system image does not support guest rendering.Falling back to 'lavapipe' mode.
+INFO         | emuglConfig_init: vulkan_mode_selected:lavapipe gles_mode_selected:swiftshader
+INFO         | Checking system compatibility:
+INFO         |   Checking: hasCompatibleHypervisor
+INFO         |      Ok: Hypervisor compatibility to run avd: `clawbox28` are met
+INFO         |   Checking: hasSufficientSystem
+INFO         |      Ok: System requirements to run avd: `clawbox28` are met
+INFO         |   Checking: hasSufficientHwGpu
+INFO         |      Ok: Hardware GPU compatibility checks are not required
+INFO         |   Checking: hasSufficientDiskSpace
+INFO         |      Ok: Disk space requirements to run avd: `clawbox28` are met
+WARNING      | Another emulator is still running, wait for a sec...
+WARNING      | Another emulator is still running, wait for a sec...
+WARNING      | Another emulator is still running, wait for a sec...
+ERROR        | Another emulator instance is running. Please close it or run all emulators with -read-only flag.
+
