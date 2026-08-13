@@ -1,0 +1,16 @@
+INFO    | Android emulator version 33.1.24.0 (build_id 11237101) (CL:N/A)
+INFO    | Found systemPath C:\Users\萧龙\AppData\Local\Android\Sdk\system-images\android-28\google_apis\x86_64\
+INFO    | Storing crashdata in: , detection is enabled for process: 14872
+INFO    | Duplicate loglines will be removed, if you wish to see each individual line launch with the -log-nofilter flag.
+INFO    | IPv4 server found: 
+INFO    | Ignore IPv6 address: 8000:2353:5301:0:8000:2353:5301:0
+INFO    | Ignore IPv6 address: 8000:2353:5301:0:8000:2353:5301:0 (2x)
+INFO    | Ignore IPv6 address: 7006:2353:5301:0:8000:2353:5301:0
+INFO    | Ignore IPv6 address: 7006:2353:5301:0:8000:2353:5301:0 (2x)
+INFO    | Ignore IPv6 address: 680c:2353:5301:0:8000:2353:5301:0
+INFO    | Ignore IPv6 address: 680c:2353:5301:0:8000:2353:5301:0 (2x)
+INFO    | Ignore IPv6 address: 8814:2353:5301:0:8000:2353:5301:0
+INFO    | Ignore IPv6 address: 8814:2353:5301:0:8000:2353:5301:0 (2x)
+INFO    | Ignore IPv6 address: 3824:2353:5301:0:8000:2353:5301:0
+INFO    | Ignore IPv6 address: 3824:2353:5301:0:8000:2353:5301:0 (2x)
+INFO    | Ignore IPv6 address: 302a:2353:5301:0:8000:2353:5301:0
